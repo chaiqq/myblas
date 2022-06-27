@@ -1,0 +1,7 @@
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/rebuild_cache.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/heat_transfer.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/tests.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/edit_cache.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/test.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/sparse.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/build/CMakeFiles/core.dir

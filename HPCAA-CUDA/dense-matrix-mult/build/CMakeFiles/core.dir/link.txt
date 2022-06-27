@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a  CMakeFiles/core.dir/src/core_generated_driver.cu.o CMakeFiles/core.dir/src/core_generated_util.cu.o CMakeFiles/core.dir/src/kernels/core_generated_parallel.cu.o CMakeFiles/core.dir/src/kernels/core_generated_serial.cu.o
+/usr/bin/ranlib libcore.a

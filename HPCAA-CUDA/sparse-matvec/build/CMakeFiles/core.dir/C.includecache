@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/src/external/mmio.c
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+mmio.h
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/src/external/mmio.h
+
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/03/sparse-matvec/src/external/mmio.h
+

@@ -1,0 +1,7 @@
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/rebuild_cache.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/edit_cache.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/test.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/dense_hpc_aa.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/tests.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/mm.dir
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/build/CMakeFiles/core.dir

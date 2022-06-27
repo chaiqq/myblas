@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/data_types.h
+
+../src/driver.h
+data_types.h
+../src/data_types.h
+vector
+-
+
+../src/util.hpp
+data_types.h
+../src/data_types.h
+string
+-
+vector
+-
+
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/binding/interface.cpp
+data_types.h
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/binding/data_types.h
+driver.h
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/binding/driver.h
+util.hpp
+/media/qianqianchai/hdiskE/WiSe2021/CSE/HPCAA/Exercise/01/dense-matrix-mult/binding/util.hpp
+iostream
+-
+pybind11/pybind11.h
+-
+
